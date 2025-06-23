@@ -357,6 +357,7 @@ img {
 }
 .frequent .accordion .box .text img {
   width: 15px;
+  transition: 0.3s;
 }
 .frequent .accordion .box .content {
   margin-top: 25px;
